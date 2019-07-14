@@ -1,0 +1,9 @@
+#!/bin/bash
+# SUPER basic script... Upgrades your packages!
+
+# Gets a list of the packages to upgrade
+sudo apt-get update
+
+# Upgrades all of the packages.
+sudo apt-get upgrade
+
